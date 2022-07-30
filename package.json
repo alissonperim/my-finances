@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/alissonperim/my-finances/issues"
   },
-  "homepage": "https://github.com/alissonperim/my-finances#readme"
+  "homepage": "https://github.com/alissonperim/my-finances#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/typescript": "^2.0.0"
+  }
 }

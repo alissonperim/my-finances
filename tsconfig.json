@@ -11,7 +11,8 @@
       "@repositories/*": ["./src/repositories/*"],
       "@services/*": ["./src/services/*"],
       "@useCases/*": ["./src/useCases/*"],
-      "@helpers/*": ["./src/shared/helpers/*"]
+      "@helpers/*": ["./src/shared/helpers/*"],
+      "@core/*": ["./src/core/*"] 
     },
     "sourceMap": true,
     "outDir": "./dist",
